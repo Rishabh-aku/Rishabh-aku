@@ -1,105 +1,209 @@
 <div align="center">
 
-# Abhay Kumar
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=200&section=header&text=Abhay%20Kumar&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%2B%20Java%20%E2%80%A2%20Building%20%26%20Learning&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-**Full-Stack Developer &nbsp;|&nbsp; B.Tech CSE, Lovely Professional University**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Apps;React.js+%7C+Java+%7C+JSP%2FServlets;Deploying+on+AWS+%26+Docker;Open+to+Full-Stack+Intern+Roles" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay200/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhay08)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhayku724@gmail.com)
-[![Phone](https://img.shields.io/badge/-+91%208250579897-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918250579897)
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay200/)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay08)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayku724@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhay08&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhay08)
 
 </div>
 
-<br>
+---
 
-## About
+## 🧑‍💻 About Me
 
-I'm a Computer Science undergraduate at Lovely Professional University building full-stack applications with React.js on the frontend and Java-based backends. My recent work spans SPA development, MVC architecture with Servlets/JSP, and cloud storage integration on AWS. I'm currently looking for a **Full-Stack Developer Intern** role where I can contribute to production systems and keep growing.
+```java
+public class AbhayKumar extends Developer {
 
-<br>
+    private final String[] currentFocus = {
+        "React.js & Component-Driven Frontends",
+        "Java, JSP & Servlets (J2EE)",
+        "Cloud Storage & Deployment (AWS)",
+        "Data Structures & Algorithms"
+    };
 
-## Tech Stack
+    private final String motto =
+        "Keep it working, keep it clean, keep learning.";
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frameworks** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![JSP](https://img.shields.io/badge/JSP%2FServlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
-| **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Git](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+    public String getStatus() {
+        return "🚀 B.Tech CSE student, building full-stack projects.";
+    }
+}
+```
 
-<br>
-
-## Featured Projects
-
-### [Doctor Patient Portal](https://github.com/abhay08) — *April 2026*
-Full-stack healthcare application with a three-role system (Admin, Doctor, Patient) for managing doctors, appointments, and patient records.
-- Implemented end-to-end appointment booking with status tracking using JDBC + MySQL and the DAO pattern
-- Structured with MVC architecture — Servlets as controllers, DAO layer for database operations, JSP views
-- Deployed on Tomcat via Maven
-
-`Java` `JSP` `Servlets (J2EE)` `MySQL` `JDBC` `Maven` `Tomcat` `Bootstrap`
+- 🎓 &nbsp;B.Tech in Computer Science Engineering @ **Lovely Professional University**, Phagwara
+- 💻 &nbsp;Building full-stack apps spanning **React.js SPAs** and **Java MVC (Servlets/JSP)** backends
+- ☁️ &nbsp;Comfortable deploying and integrating with **AWS**, **Docker**, and **Azure**
+- 🌱 &nbsp;Sharpened **DSA fundamentals** through an intensive Java-focused internship
+- 📫 &nbsp;Reach me at **abhayku724@gmail.com**
 
 ---
 
-### [Cloud-Based File Storage System](https://github.com/abhay08) — *April 2024*
-Secure, cost-effective cloud storage application for managing files from anywhere without a dedicated backend server.
-- Built a web app that uploads and retrieves files directly to Amazon S3 from the browser
-- Applied IAM policies for secure, scoped access control
-
-`AWS S3` `IAM` `HTML` `CSS`
-
----
-
-### [E-Commerce Website](https://github.com/abhay08) — *May 2024*
-Component-driven frontend for a digital marketplace, built as a high-performance Single Page Application.
-- Implemented dynamic data mapping, complex product filtering, and persistent shopping cart state
-- Designed as a 24/7 digital storefront for secure customer transactions
-
-`HTML5` `CSS3` `JavaScript` `React.js`
-
----
-
-### [Restaurant Website](https://github.com/abhay08) — *April 2024*
-Responsive Single Page Application built for the hospitality sector.
-- Dynamically renders menu data with client-side routing and form validation
-- Fully mobile-responsive, designed to drive reservations and foot traffic
-
-`HTML5` `CSS3` `JavaScript` `React.js`
-
-> Update the links above with your actual repository URLs.
-
-<br>
-
-## Training & Certifications
-
-- **Data Structures & Algorithms using Java** — CipherSchools *(Jun '25 – Jul '25)*
-  Intensive internship strengthening Java and DSA fundamentals; built a Library Tracker Management System as the capstone project.
-- **AI Foundations Associate** — Oracle University *(May 2024)*
-- **Cloud Infrastructure Foundation Associate** — Oracle University *(Apr 2024)*
-- **Bits and Bytes** — Coursera *(May 2024)*
-- **Privacy and Security in Online Social Media** — NPTEL
-- **Git and GitHub** — CipherSchools
-
-Also earned multiple Oracle badges for cloud and database technologies *(Apr 2024)*.
-
-<br>
-
-## Education
-
-**Lovely Professional University**, Phagwara, Punjab
-B.Tech, Computer Science & Engineering — CGPA: 7.02 &nbsp;|&nbsp; Aug 2023 – Present
-
-<br>
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhay08&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay08&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JSP/Servlets](https://img.shields.io/badge/JSP%2FServlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+
+### Core Competencies
+![DSA](https://img.shields.io/badge/DSA-00D4FF?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6A0DAD?style=for-the-badge&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-FF6B35?style=for-the-badge&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF4F64?style=for-the-badge&logoColor=white)
+
 </div>
 
-<br>
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
-<sub>Open to Full-Stack Developer Intern opportunities — feel free to reach out.</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Doctor Patient Portal
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay08)
+
+Full-stack healthcare app with a 3-role system (Admin, Doctor, Patient). MVC architecture with Servlets as controllers, a DAO layer, and JSP views, deployed on Tomcat via Maven.
+
+**Tech:** `Java` `JSP` `Servlets` `MySQL` `JDBC` `Maven`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud-Based File Storage System
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay08)
+
+Secure, cost-effective app for uploading and retrieving files directly to Amazon S3 from the browser, with no dedicated backend server required.
+
+**Tech:** `AWS S3` `IAM` `HTML` `CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Website
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay08)
+
+Component-driven SPA for a digital marketplace, featuring dynamic data mapping, complex product filtering, and persistent shopping cart state.
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `React.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Restaurant Website
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhay08)
+
+Fully responsive SPA that dynamically renders a menu and handles client-side routing and form validation for the hospitality sector.
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `React.js`
+
+</td>
+</tr>
+</table>
+</div>
+
+> Swap the repo links above with your actual project URLs.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhay08&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay08&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay08&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay08&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhay08&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+
+---
+
+## 📚 Training & Certifications
+
+<div align="center">
+
+| Program | Provider | When |
+|---|---|---|
+| Data Structures & Algorithms using Java | CipherSchools | Jun '25 – Jul '25 |
+| AI Foundations Associate | Oracle University | May 2024 |
+| Cloud Infrastructure Foundation Associate | Oracle University | Apr 2024 |
+| Bits and Bytes | Coursera | May 2024 |
+| Privacy and Security in Online Social Media | NPTEL | — |
+| Git and GitHub | CipherSchools | — |
+
+</div>
+
+Also earned multiple **Oracle badges** for cloud and database technologies *(Apr 2024)*.
+
+---
+
+## 📈 Current Focus
+
+<div align="center">
+
+| Area | Topics |
+|------|--------|
+| 🌐 **Frontend** | React.js · SPA Architecture · Responsive Design |
+| ⚙️ **Backend** | Java · Servlets · JSP · MVC Patterns |
+| 🗄️ **Databases** | MySQL · JDBC · MS SQL Server |
+| ☁️ **Cloud & DevOps** | AWS S3 & IAM · Docker · Azure |
+| 🧠 **Fundamentals** | Data Structures & Algorithms · OOP |
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1f2e,100:0d1117&height=120&section=footer&text=Let's+Connect+%26+Build+Together&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
+*⭐ Star repositories you find useful &nbsp;·&nbsp; 🤝 Open to Full-Stack Intern opportunities &nbsp;·&nbsp; 🚀 Always learning, always building*
+
 </div>
